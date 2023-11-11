@@ -35,6 +35,4 @@ def main():
     list_name_files = rename_files(path_folder, list_name_files)
 
     show_images(list_name_files)
-
-
 main()
